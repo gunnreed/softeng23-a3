@@ -14,5 +14,5 @@
    have certain questions answered. For example, the task could keep track of its progress and have its progress updated by whoever is supposed to
    perform the task. We would also want the user to have the ability to assign multiple people to a task and then be able to keep track of who is working
    on what. It might work similar to github projects. At least that is the view we currently have on the program.
-   This would keep our answer to the first question the same. We would want it as a class just in case we add some future funtions
+   This would keep our answer to the first question the same. We would want it as a class just in case we add some future functions
    that the task would be able to perform.
